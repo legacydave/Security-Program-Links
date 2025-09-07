@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A cybersecurity nerd from ⚜️ 🍁</h3>
 
-- 🔭 I’m currently working on **simplfying cybersecurity risk assessments and challenges**
+- 🔭 I’m currently working on **simplifying cybersecurity risk assessments and challenges**
 
 - 🌱 I’m currently learning **about how to better use git**
 
